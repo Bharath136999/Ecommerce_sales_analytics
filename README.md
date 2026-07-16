@@ -30,9 +30,9 @@ This project analyzes ecommerce sales performance using SQL and Power BI.
 - Regional Performance Tracking
 
 ## Project Files
-- Power BI Dashboard (.pbix)
-- SQL Queries
-- Dashboard Screenshots
+- Power BI  (.pbix)
+- SQL
+- Images
 - Project Report PDF
 
 ## Business Insights
